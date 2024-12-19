@@ -1,9 +1,4 @@
 # Projek Kriptografi
-| Nama    |  NPM    |
-|:-------------:|:-------------:|
-| Muhammad Faiz Fahri | 140810220002 | 
-| Mohammad Aria Ardhana | 140810220041 | 
-| Muhammad Satria Dharma | 140810220080 | 
 
 Aplikasi berbasis website untuk melakukan enkripsi dan dekripsi pesan dari file .txt. Aplikasi ini dibuat menggunakan streamlit.
 Algoritma kriptografi yang digunakan adalah:
@@ -12,6 +7,13 @@ Algoritma kriptografi yang digunakan adalah:
    
 Dalam spiral cipher, proses enkripsi melibatkan penulisan plainteks secara spiral, lalu dari spiral itu dibaca baris per baris.
 Untuk dekripsinya merupakan kebalikannya, penulisan cipherteks secara baris per baris, lalu pembacaannya secara spiral.
+
+## Anggota Kelompok 
+| Nama    |  NPM    |
+|:-------------:|:-------------:|
+| Muhammad Faiz Fahri | 140810220002 | 
+| Mohammad Aria Ardhana | 140810220041 | 
+| Muhammad Satria Dharma | 140810220080 | 
 
 ## Fungsi Aplikasi
 Fungsi dari aplikasi ini adalah untuk memudahkan pengguna untuk mengenkripsi atau dekripsi text yang panjang menggunakan
