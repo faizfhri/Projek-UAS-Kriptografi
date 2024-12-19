@@ -1,6 +1,5 @@
 # Projek Kriptografi
 
-## Deskripsi
 Aplikasi berbasis website untuk melakukan enkripsi dan dekripsi shift spiral dan spiral cipher.
 
 ## Fitur
