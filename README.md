@@ -2,8 +2,8 @@
 
 Aplikasi berbasis website untuk melakukan enkripsi dan dekripsi pesan dari file .txt. Aplikasi ini dibuat menggunakan Streamlit.  
 Algoritma kriptografi yang digunakan adalah:  
-1. **Shift Cipher**  
-2. **Spiral Cipher**  
+1. [**Shift Cipher**](#Shift-Cipher)  
+2. [**Spiral Cipher**](#Spiral-Cipher)  
 
 ## Shift Cipher
 Shift Cipher adalah salah satu algoritma kriptografi klasik yang bekerja dengan cara menggantikan setiap huruf dalam teks dengan huruf lain yang terletak sejauh **kunci** tertentu dalam alfabet. Prosesnya adalah sebagai berikut:
@@ -28,16 +28,16 @@ Spiral Cipher adalah algoritma kriptografi yang bekerja dengan cara menulis teks
   2. Bacalah matriks dalam pola spiral untuk mendapatkan plainteks asli.
 
 ### Contoh Enkripsi:
-- Teks asli (plainteks): `HELLOWORLD`
-- Ukuran matriks: `3x4`  
+- Teks asli (plainteks): `testimoni`
+- Ukuran matriks: `3x3`  
   Matriks setelah pengisian spiral:  
-- Hasil enkripsi (dibaca baris per baris): `HELLO WORLD`
+- Hasil enkripsi (dibaca baris per baris): `tesnitomi`
 
 ### Contoh Dekripsi:
-- Cipherteks: `HELLO WORLD`
-- Ukuran matriks: `3x4`  
+- Cipherteks: `tesnitomi`
+- Ukuran matriks: `3x3`  
 Matriks setelah pengisian baris per baris:
-- Hasil dekripsi (dibaca spiral): `HELLO WORLD`
+- Hasil dekripsi (dibaca spiral): `testimoni`
 
 ## Daftar Isi
 - [Anggota Kelompok](#anggota-kelompok)
