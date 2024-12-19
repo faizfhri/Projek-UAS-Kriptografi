@@ -45,7 +45,7 @@ Fungsi-fungsi aplikasi ini mencakup:
 - Menghasilkan file `.txt` hasil enkripsi atau dekripsi yang dapat diunduh.
 - Menampilkan hasil enkripsi atau dekripsi langsung di antarmuka.
 
-## Link Deployment
+## Link Aplikasi
 [Aplikasi enkripsi dan dekripsi dari file .txt](https://uas-kripto-kelompok-11.streamlit.app)
 
 ## Shift Cipher
