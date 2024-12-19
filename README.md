@@ -22,4 +22,4 @@ Untuk dekripsinya merupakan kebalikannya, penulisan cipherteks secara baris per 
 - Download hasil ke .txt
 
 ### Link Deployment
-https://uas-kripto-kelompok-11.streamlit.app
+[Aplikasi enkripsi dan dekripsi dari file .txt](https://uas-kripto-kelompok-11.streamlit.app)
