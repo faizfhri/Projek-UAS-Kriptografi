@@ -9,7 +9,7 @@ Algoritma kriptografi yang digunakan adalah:
 - [Anggota Kelompok](#anggota-kelompok)
 - [Fungsi Aplikasi](#fungsi-aplikasi)
 - [Fitur Utama](#fitur-utama)
-- [Link Deployment](#link-deployment)
+- [Link Aplikasi](#link-aplikasi)
 
 ## Anggota Kelompok
 | Nama                 | NPM          |
