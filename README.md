@@ -14,6 +14,10 @@ Algoritma kriptografi yang digunakan adalah:
 Dalam spiral cipher, proses enkripsi melibatkan penulisan plainteks secara spiral, lalu dari spiral itu dibaca baris per baris.
 Untuk dekripsinya merupakan kebalikannya, penulisan cipherteks secara baris per baris, lalu pembacaannya secara spiral.
 
+# Fungsi Aplikasi
+Fungsi dari aplikasi ini adalah untuk memudahkan pengguna untuk mengenkripsi atau dekripsi text yang panjang menggunakan
+file .txt, user juga dapat memilih diantara 2 metode cipher yaitu shift cipher dan spiral cipher.
+
 ## Fitur Utama
 - Enkripsi dan Dekripsi Shift Cipher secara input manual
 - Enkripsi dan Dekripsi Shift Cipher menggunakan file .txt
