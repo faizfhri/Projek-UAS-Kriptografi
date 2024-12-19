@@ -30,20 +30,20 @@ Fungsi-fungsi aplikasi ini mencakup:
 
 ## Fitur Utama
 - **Shift Cipher**:
-- Enkripsi dan dekripsi teks melalui input manual.
-- Enkripsi dan dekripsi teks menggunakan file `.txt`.
-- Mendukung pengaturan kunci shift oleh pengguna.
+  - Enkripsi dan dekripsi teks melalui input manual.
+  - Enkripsi dan dekripsi teks menggunakan file `.txt`.
+  - Mendukung pengaturan kunci shift oleh pengguna.
 
 - **Spiral Cipher**:
-- Enkripsi dan dekripsi teks melalui input manual.
-- Enkripsi dan dekripsi teks menggunakan file `.txt`.
-- Mendukung pengaturan dimensi matriks (baris dan kolom) untuk proses enkripsi.
+  - Enkripsi dan dekripsi teks melalui input manual.
+  - Enkripsi dan dekripsi teks menggunakan file `.txt`.
+  - Mendukung pengaturan dimensi matriks (baris dan kolom) untuk proses enkripsi.
 
 - **General Features**:
-- Mendukung pengunggahan file `.txt` sebagai sumber teks.
-- Menyediakan opsi untuk memproses file berisi teks panjang.
-- Menghasilkan file `.txt` hasil enkripsi atau dekripsi yang dapat diunduh.
-- Menampilkan hasil enkripsi atau dekripsi langsung di antarmuka.
+  - Mendukung pengunggahan file `.txt` sebagai sumber teks.
+  - Menyediakan opsi untuk memproses file berisi teks panjang.
+  - Menghasilkan file `.txt` hasil enkripsi atau dekripsi yang dapat diunduh.
+  - Menampilkan hasil enkripsi atau dekripsi langsung di antarmuka.
 
 ## Link Aplikasi
 [Aplikasi enkripsi dan dekripsi dari file .txt](https://uas-kripto-kelompok-11.streamlit.app)
