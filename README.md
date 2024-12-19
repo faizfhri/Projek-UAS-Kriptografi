@@ -1,4 +1,4 @@
-## Anggota Kelompok
+# Anggota Kelompok
 | Nama    |  NPM    |
 |:-------------:|:-------------:|
 | Muhammad Faiz Fahri | 140810220002 | 
